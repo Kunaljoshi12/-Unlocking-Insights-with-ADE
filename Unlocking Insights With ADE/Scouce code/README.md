@@ -1,0 +1,1 @@
+There is code to utilize a model for generating summaries in multiple languages, including English, Marathi, and Hindi. This involves extracting text in these languages from images and then summarizing it using a simple T5 model.
