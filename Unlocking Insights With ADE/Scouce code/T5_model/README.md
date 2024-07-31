@@ -1,0 +1,1 @@
+There is a news_summary dataset that can be used to train a pre-trained T5 model. This model can be trained to summarize large text into short summaries. We can use the headline and text columns from the dataset for model training, with the text as input or source and the headline as output or target. Once trained, the model can generate summaries for other text input
